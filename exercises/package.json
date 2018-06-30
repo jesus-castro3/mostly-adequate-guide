@@ -23,7 +23,10 @@
     "ch10": "mocha test/ch10.js",
     "ch11": "mocha test/ch11.js",
     "ch12": "mocha test/ch12.js",
-    "p1": "node nodeschool-hmo/part1.js"
+    "p1": "node nodeschool-hmo/part1.js",
+    "p2": "node nodeschool-hmo/part2.js",
+    "p3": "node nodeschool-hmo/part3.js",
+    "p4": "node nodeschool-hmo/part4.js"
   },
   "repository": {
     "type": "git",
