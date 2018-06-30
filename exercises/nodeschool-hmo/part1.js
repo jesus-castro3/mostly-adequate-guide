@@ -54,15 +54,9 @@ const updateScore = (country) => {
 }
 
 updateScore("mexico");
-
-
-// const goalFrom = (country, score) =>
-//     (score[country]) ?
-//         Object.assign(score, { mexico: score.mexico + 1 }) :
-//         "Country does not exist on score board"
-
-
-// console.log(goalFrom("mexico", score));
-
-//but wait there something up
+// but wait there something up
 // can you identify it?
+
+
+
+
